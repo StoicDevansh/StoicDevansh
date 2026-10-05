@@ -342,7 +342,7 @@ Docker
 
 <div align="center">
 
-![snake gif](https://github.com/StoicDevansh/StoicDevansh/blob/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/StoicDevansh/StoicDevansh/output/current.gif" alt="GitHub Contribution Snake">
 
 </div>
 
