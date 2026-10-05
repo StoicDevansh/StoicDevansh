@@ -322,7 +322,7 @@ Docker
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=StoicDevansh&theme=dark&hide_border=false" />
+![](https://streak-stats.demolab.com/?user=StoicDevansh&theme=dark&hide_border=false)<br/>
 
 </div>
 
