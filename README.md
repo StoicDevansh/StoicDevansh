@@ -337,16 +337,16 @@ Docker
 </div>
 
 ---
-
+-->
 # 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/StoicDevansh/StoicDevansh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+![snake gif](https://github.com/StoicDevansh/StoicDevansh/blob/output/github-snake-dark.svg)
 
 </div>
 
---- -->
+---
 
 # 🏆 GitHub Trophies
 
