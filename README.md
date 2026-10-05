@@ -3,6 +3,11 @@
 <!--                    GITHUB PROFILE README                       -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- <div align="center">
+<br/>
+<h3>𓆩◐𓆪</h3>
+<sub>STOICDEVANSH</sub>
+</div> -->
 
 <div align="center">
 
@@ -400,21 +405,16 @@ Docker
 
 <div align="center">
 
-> 💡📚 **"Build. Break. Understand. Improve."**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 > 
-> <br>
->
 > 🌿🎭 *“Peace is Permanent, Patience Is Not”*
-> 
+> <div align="center">
+> <br/>
+> <h3>𓆩◐𓆪</h3>
+> <sub>STOIC-DEVANSH</sub>
+> </div>
 
-<div align="center">
-<br/>
-
-<h3>𓆩◐𓆪</h3>
-
-<sub>STOIC-DEVANSH</sub>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7F00FF,100:00F5A0&height=100&section=footer&animation=twinkling" />
 
