@@ -378,6 +378,7 @@ Docker
 
 # 🌐 Connect With Me
 
+<br>
 <p align="center">
 
 <a href="https://github.com/StoicDevansh">
@@ -394,21 +395,19 @@ Docker
 
 </p>
 
----
+<br>
+<br>
 
 <div align="center">
 
-### 💡📚 *"Build. Break. Understand. Improve."*
-
-
-
-### 🌿🎭 *"Peace is Permanent, Patience Is Not"*
+> 💡📚 **"Build. Break. Understand. Improve."**
+> 
+> <br>
+>
+> 🌿🎭 *“Peace is Permanent, Patience Is Not”*
+> 
 
 <div align="center">
-
-
-
-
 <br/>
 
 <h3>𓆩◐𓆪</h3>
