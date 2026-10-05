@@ -1,97 +1,125 @@
 name: Phantom Snake
 
-
-
 on:
 
   # Schedule the workflow to run daily at midnight UTC
-
   schedule:
-
     - cron: "0 0 * * *"
 
-
-
   # Allow manual triggering of the workflow
-
   workflow_dispatch:
 
-
-
   # Trigger the workflow on pushes to the main branch
-
   push:
-
     branches:
-
       - main
-
-
 
 jobs:
 
   generate:
-
     runs-on: ubuntu-latest
-
     timeout-minutes: 10
-
-
 
     steps:
 
       # Step 1: Checkout the repository
-
       - name: Checkout Repository
-
         uses: actions/checkout@v3
 
-
-
-      # Step 2: Generate the snake animations
-
-      - name: Generate GitHub Contributions Snake Animations
-
+      # Step 2: Generate all snake themes
+      - name: Generate Phantom Snake Themes
         uses: Platane/snk@v3
-
         with:
 
           # GitHub username to generate the animation for
-
           github_user_name: ${{ github.repository_owner }}
 
-
-
-          # Define the output files and their configurations
-
+          # Generate all themes
           outputs: |
 
+            # Normal GitHub versions
             dist/github-snake.svg
-
             dist/github-snake-dark.svg?palette=github-dark
 
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            # 🟣 Cyberpunk
+            dist/cyberpunk.gif?color_snake=#ff00ff&color_dots=#12001f,#3a0066,#8000ff,#cc00ff,#ff00ff
+
+            # 🟢 Matrix
+            dist/matrix.gif?color_snake=#00ff41&color_dots=#001a00,#003300,#006600,#00aa22,#00ff41
+
+            # 🔵 Electric Blue
+            dist/electric-blue.gif?color_snake=#00e5ff&color_dots=#00141f,#003b5c,#006994,#00a6d6,#00e5ff
+
+            # 🔥 Fire
+            dist/fire.gif?color_snake=#ffffff&color_dots=#240000,#5c0000,#a30000,#ff4d00,#ffb000
+
+            # 🌌 Deep Space
+            dist/deep-space.gif?color_snake=#00e5ff&color_dots=#08001a,#160033,#2d0066,#4c00b8,#7a2cff
+
+            # 🌊 Aqua
+            dist/aqua.gif?color_snake=#00ffff&color_dots=#001f26,#004d4d,#008080,#00b3b3,#00ffff
+
+            # 🌅 Sunset
+            dist/sunset.gif?color_snake=#ffffff&color_dots=#26000f,#66001f,#b3003b,#ff4d6d,#ff9f1c
+
+            # ⚪ Monochrome
+            dist/monochrome.gif?color_snake=#ffffff&color_dots=#111111,#333333,#555555,#888888,#cccccc
 
         env:
-
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Step 3: Automatically select a different theme every day
+      - name: Select Daily Snake Theme
+        shell: bash
+        run: |
 
+          DAY_OF_YEAR=$(date -u +%j)
+          THEME_INDEX=$((10#$DAY_OF_YEAR % 8))
 
-      # Step 3: Deploy the generated files to the 'output' branch
+          case $THEME_INDEX in
 
+            0)
+              cp dist/cyberpunk.gif dist/current.gif
+              ;;
+
+            1)
+              cp dist/matrix.gif dist/current.gif
+              ;;
+
+            2)
+              cp dist/electric-blue.gif dist/current.gif
+              ;;
+
+            3)
+              cp dist/fire.gif dist/current.gif
+              ;;
+
+            4)
+              cp dist/deep-space.gif dist/current.gif
+              ;;
+
+            5)
+              cp dist/aqua.gif dist/current.gif
+              ;;
+
+            6)
+              cp dist/sunset.gif dist/current.gif
+              ;;
+
+            7)
+              cp dist/monochrome.gif dist/current.gif
+              ;;
+
+          esac
+
+          echo "Today's snake theme:"
+          echo "$THEME_INDEX"
+
+      # Step 4: Deploy everything to the output branch
       - name: Deploy to Output Branch
-
         uses: peaceiris/actions-gh-pages@v3
-
         with:
-
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
           publish_dir: ./dist
-
           publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
-          commit_message: "Update snake animation [skip ci]"
+          commit_message: "Update Phantom Snake [skip ci]"
