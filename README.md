@@ -325,11 +325,16 @@ Docker
 
 # 🔥 Contribution Streak
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=StoicDevansh&show_icons=false&theme=dark&hide_border=false&include_all_commits=true" height="175" alt="GitHub Stats" />
+</p>
 
-![](https://streak-stats.demolab.com/?user=StoicDevansh&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StoicDevansh&theme=dark&hide_border=false" height="175" alt="GitHub Streak Stats" />
+</p>
 
-</div>
+
+
 
 ---
 
