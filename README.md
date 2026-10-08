@@ -11,7 +11,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Devansh**
+# <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Hi, I'm **Devansh**
 
 ### `Software Engineer` · `AI/ML Engineer` · `Problem Solver`
 
@@ -402,7 +402,7 @@ Docker
 <a href="mailto:devansh.x.stoic@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+<img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
 </p>
 
 <br>
@@ -413,13 +413,16 @@ Docker
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 > 
-> 🌿🎭 *“Peace is Permanent, Patience Is Not”*
+> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="37"/>🌿🎭 *“Peace is Permanent, Patience Is Not”*
 > <div align="center">
 > <br/>
 > <h3>𓆩◐𓆪</h3>
 > <sub>STOIC-DEVANSH</sub>
 > </div>
 
+<!-- <div align= "center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>*“Peace is Permanent, Patience Is Not”*</i></b> 
+</div> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:7F00FF,100:00F5A0&height=100&section=footer&animation=twinkling" />
 
