@@ -559,6 +559,18 @@ Docker
 <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/>
 </p>
 
+## 📺 Latest YouTube Videos
+
+<table>
+  <tbody>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/channel/UCjrbl3UvIziZEQ8xRNvLq3A"><img width="140px" src="https://www.youtube.com/channel/UCjrbl3UvIziZEQ8xRNvLq3A"></a></td>
+<td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">Future Youtube Channel</a><br/>Coming Soon</td></tr>
+
+<!-- YOUTUBE:END -->
+</tbody>
+  </table>
+
+
 <br>
 <br>
 
@@ -573,6 +585,7 @@ Docker
 > <h3>𓆩◐𓆪</h3>
 > <sub>STOIC-DEVANSH</sub>
 > </div>
+
 
 <!-- <div align= "center">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <b><i>*“Peace is Permanent, Patience Is Not”*</i></b> 
