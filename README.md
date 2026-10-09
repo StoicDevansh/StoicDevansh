@@ -1,3 +1,4 @@
+
 <!-- Bye Hand -->
 <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -206,6 +207,144 @@ Greedy
    ↓
 Dynamic Programming
 ```
+# 🧠 Data Structures & Algorithms — Complete Roadmap
+
+<p align="center">
+  <b>BEGINNER → INTERMEDIATE → ADVANCED → EXPERT</b>
+  <br>
+  A structured learning path for problem-solving, coding interviews, and competitive programming.
+</p>
+
+---
+
+## 🧭 The Complete Learning Path
+
+```mermaid
+flowchart TD
+    START(["🚀 START: DSA Journey"])
+
+    subgraph P0["PHASE 0 — Programming Foundations"]
+        A["Choose One Language<br/>C++ / Python / Java"]
+        B["Variables, Data Types,<br/>Conditions & Loops"]
+        C["Functions, Arrays,<br/>Strings & Pointers"]
+        D["OOP, References,<br/>Memory & Recursion Basics"]
+        A --> B --> C --> D
+    end
+
+    subgraph P1["PHASE 1 — Algorithm Analysis"]
+        E["What Is an Algorithm?"]
+        F["Time & Space Complexity"]
+        G["Big-O, Big-Theta,<br/>Big-Omega"]
+        H["Best, Average & Worst Cases"]
+        I["Analyze Nested Loops<br/>& Recursive Functions"]
+        E --> F --> G --> H --> I
+    end
+
+    subgraph P2["PHASE 2 — Core Data Structures"]
+        J["Arrays & Matrices"]
+        K["Strings"]
+        L["Linked Lists"]
+        M["Stacks & Queues"]
+        N["Hash Tables & Sets"]
+        J --> K --> L --> M --> N
+    end
+
+    subgraph P3["PHASE 3 — Core Algorithms"]
+        O["Linear & Binary Search"]
+        P["Sorting Algorithms"]
+        Q["Recursion & Backtracking"]
+        R["Two Pointers & Sliding Window"]
+        S["Prefix Sum & Hashing Patterns"]
+        O --> P --> Q --> R --> S
+    end
+
+    subgraph P4["PHASE 4 — Trees & Heaps"]
+        T["Binary Trees"]
+        U["Tree Traversals: DFS & BFS"]
+        V["Binary Search Trees"]
+        W["Balanced Trees: AVL / B-Tree"]
+        X["Heaps & Priority Queues"]
+        Y["Tries"]
+        T --> U --> V --> W
+        U --> X --> Y
+    end
+
+    subgraph P5["PHASE 5 — Graph Algorithms"]
+        Z["Graph Representation"]
+        AA["BFS & DFS"]
+        AB["Connected Components<br/>& Cycle Detection"]
+        AC["Topological Sorting"]
+        AD["Union-Find / DSU"]
+        AE["Minimum Spanning Tree<br/>Prim & Kruskal"]
+        AF["Shortest Paths<br/>Dijkstra & Bellman-Ford"]
+        Z --> AA --> AB
+        AB --> AC
+        AB --> AD
+        AD --> AE
+        AC --> AF
+    end
+
+    subgraph P6["PHASE 6 — Problem-Solving Patterns"]
+        AG["Greedy Algorithms"]
+        AH["Divide & Conquer"]
+        AI["Monotonic Stack & Queue"]
+        AJ["Intervals & Sweep Line"]
+        AK["Binary Search on Answer"]
+        AL["Bit Manipulation"]
+        AG --> AH --> AI --> AJ --> AK --> AL
+    end
+
+    subgraph P7["PHASE 7 — Dynamic Programming"]
+        AM["DP Fundamentals<br/>Memoization & Tabulation"]
+        AN["1D & 2D DP"]
+        AO["Knapsack & Coin Change"]
+        AP["LCS / LIS / Edit Distance"]
+        AQ["Interval DP"]
+        AR["Tree & Grid DP"]
+        AS["Bitmask DP & State Optimization"]
+        AM --> AN --> AO --> AP --> AQ --> AR --> AS
+    end
+
+    subgraph P8["PHASE 8 — Advanced Topics"]
+        AT["Segment Trees<br/>& Fenwick Trees"]
+        AU["Sparse Tables & Range Queries"]
+        AV["Advanced Graph Algorithms"]
+        AW["Strongly Connected Components"]
+        AX["Network Flow & Matching"]
+        AY["String Algorithms<br/>KMP / Z / Rolling Hash"]
+        AZ["Suffix Arrays & Advanced Structures"]
+        AT --> AU
+        AV --> AW --> AX
+        AY --> AZ
+    end
+
+    subgraph P9["PHASE 9 — Mastery & Interviews"]
+        BA["Pattern Recognition"]
+        BB["Mixed Medium & Hard Problems"]
+        BC["Timed Coding Interviews"]
+        BD["Contest Practice"]
+        BE["Revision & Error Analysis"]
+        BF(["🏆 DSA Proficiency"])
+        BA --> BB --> BC --> BE --> BF
+        BA --> BD --> BE
+    end
+
+    START --> A
+    D --> E
+    I --> J
+    N --> O
+    S --> T
+    S --> Z
+    S --> AG
+    S --> AM
+    Y --> AT
+    AF --> AV
+    AL --> AS
+    AZ --> BA
+```
+
+---
+
 ---
 
 ### 🎯 Platforms
