@@ -1,3 +1,5 @@
+<!-- Bye Hand -->
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <!--                    GITHUB PROFILE README                       -->
@@ -34,7 +36,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About Me
 
 ```text
 🎓 Computer Science and Engineering Student
@@ -45,22 +47,25 @@
 🚀 Building projects to turn concepts into real-world systems
 ```
 
-I enjoy understanding **how things work internally**, solving problems with **clean logic**, and continuously improving my **engineering fundamentals** and **Problem Solving Skills**.
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="37"/>I enjoy understanding **how things work internally**, solving problems with **clean logic**, and continuously improving my **engineering fundamentals** and **Problem Solving Skills**.
 
+### <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 ### Currently Focused On
 
 * 🧠 **Data Structures & Algorithms**
-* 💻 **Software Engineering fundamentals**
-* 🐍 **C++ & Python**
-* 🐳 **Docker & development tooling**
+* 🐍 **C++**
+* 💻 *Software Engineering fundamentals*
+<!--* 🐳 **Docker & development tooling**
 * 🗄️ **Databases and backend development**
 * 🤖 **AI / ML / Agentic AI**
 * 🏗️ **System Design**
-* 🚀 **Building and deploying real-world projects**
+* 🚀 **Building and deploying real-world projects**  -->
 
----
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 🛠️ Tech Stack
+
 ## 💻 Languages
 
 <p align="left">
@@ -134,8 +139,9 @@ I enjoy understanding **how things work internally**, solving problems with **cl
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+
 
 # 📚 What I'm Currently Learning
 
