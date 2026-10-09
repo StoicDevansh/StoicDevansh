@@ -207,6 +207,135 @@ Greedy
    ↓
 Dynamic Programming
 ```
+
+## 🧠 DSA Roadmap — Beginner to Advanced
+
+```mermaid
+flowchart TD
+    A(["🚀 DSA"]) --> B["Complexity Analysis"]
+    B --> B1["Big-O · Recurrences · Amortized Analysis"]
+    B1 --> C["Arrays & Hashing"]
+
+    C --> D["Two Pointers"]
+    C --> E["Stack"]
+    C --> F["Prefix Sum"]
+    C --> G["Sorting"]
+    C --> H["Binary Search"]
+    C --> I["Linked Lists"]
+    C --> J["Sliding Window"]
+
+    D --> D1["Opposite / Same Direction<br/>Fast & Slow Pointers"]
+    J --> J1["Fixed / Variable Window<br/>Frequency Window"]
+    F --> F1["Range Queries<br/>Difference Array"]
+    E --> E1["Monotonic Stack / Queue<br/>Expression Evaluation"]
+    G --> G1["Merge / Quick / Heap Sort<br/>Counting / Radix Sort"]
+    H --> H1["Bounds · Rotated Arrays<br/>Binary Search on Answer"]
+    I --> I1["Reversal · Cycle Detection<br/>Merge · Fast / Slow"]
+
+    I --> K["Trees"]
+    K --> K1["DFS: Pre / In / Postorder"]
+    K --> K2["BFS: Level Order"]
+    K --> K3["BST: Search / Insert / Delete"]
+    K1 --> K4["LCA · Diameter · Path Sum<br/>Serialization · Tree DP"]
+    K3 --> K5["Balanced Trees<br/>AVL · Red-Black · B-Tree / B+ Tree"]
+
+    K --> L["Tries"]
+    L --> L1["Prefix Search · Autocomplete<br/>Word Search · Bitwise Trie"]
+
+    K --> M["Heap / Priority Queue"]
+    M --> M1["Top-K · K-Way Merge<br/>Two Heaps · Median Stream"]
+
+    C --> N["Intervals & Sweep Line"]
+    N --> N1["Merge · Overlap · Scheduling<br/>Meeting Rooms · Event Ordering"]
+
+    C --> O["Greedy"]
+    O --> O1["Activity Selection · Jump Game<br/>Huffman · Scheduling"]
+
+    C --> P["Recursion & Backtracking"]
+    P --> P1["Subsets · Permutations<br/>Combinations · Combination Sum"]
+    P1 --> P2["Pruning · Constraint Search<br/>N-Queens · Sudoku"]
+
+    C --> Q["Divide & Conquer"]
+    Q --> Q1["Merge Sort · Quickselect<br/>Inversion Count · Partitioning"]
+
+    C --> R["Bit Manipulation"]
+    R --> R1["XOR · Bitmasking · Subsets<br/>Bit Tricks · Bitmask DP"]
+
+    C --> S["Math & Number Theory"]
+    S --> S1["GCD / LCM · Primes · Sieve<br/>Modular Arithmetic · Fast Power"]
+    S1 --> S2["Combinatorics · Probability<br/>Matrices · Geometry"]
+
+    C --> T["Graphs"]
+    T --> T1["Representations<br/>Adjacency List / Matrix / Edge List"]
+    T1 --> T2["BFS / DFS · Grid Traversal<br/>Components · Cycle Detection"]
+    T2 --> T3["Topological Sort<br/>Kahn · DFS · DAG"]
+    T2 --> T4["Union-Find / DSU"]
+    T4 --> T5["Minimum Spanning Tree<br/>Prim · Kruskal"]
+    T1 --> T6["Shortest Paths"]
+    T6 --> T7["BFS · Dijkstra · Bellman-Ford<br/>Floyd-Warshall · A*"]
+    T2 --> T8["SCC · Bridges<br/>Articulation Points"]
+    T8 --> T9["Advanced Graphs<br/>Eulerian Paths · Network Flow · Matching"]
+
+    P --> U["Dynamic Programming"]
+    U --> U1["State · Transition · Base Cases<br/>Memoization · Tabulation"]
+    U1 --> U2["1D / 2D DP<br/>Climbing Stairs · House Robber"]
+    U1 --> U3["Knapsack · Coin Change<br/>0/1 · Unbounded"]
+    U1 --> U4["Subsequence DP<br/>LIS · LCS · Edit Distance"]
+    U1 --> U5["Grid DP · Path Counting<br/>Unique Paths · Min Cost"]
+    U1 --> U6["Interval DP<br/>Matrix Chain · Burst Balloons"]
+    U1 --> U7["Tree DP · Rerooting<br/>Bitmask DP · Digit DP"]
+
+    C --> V["Advanced Data Structures"]
+    V --> V1["Fenwick Tree / BIT"]
+    V --> V2["Segment Tree"]
+    V2 --> V3["Lazy Propagation<br/>Range Updates / Queries"]
+    V --> V4["Sparse Table · RMQ<br/>Persistent Structures"]
+
+    C --> W["String Algorithms"]
+    W --> W1["KMP · Z Algorithm<br/>Prefix Function · Rabin-Karp"]
+    W1 --> W2["Rolling Hash · Aho-Corasick<br/>Suffix Array · LCP · Suffix Tree"]
+
+    K4 --> X(["🏆 Pattern Recognition"])
+    M1 --> X
+    L1 --> X
+    N1 --> X
+    O1 --> X
+    P2 --> X
+    Q1 --> X
+    R1 --> X
+    S2 --> X
+    T5 --> X
+    T7 --> X
+    T9 --> X
+    U2 --> X
+    U3 --> X
+    U4 --> X
+    U5 --> X
+    U6 --> X
+    U7 --> X
+    V1 --> X
+    V3 --> X
+    V4 --> X
+    W2 --> X
+
+    X --> Y["Mixed Problems<br/>Easy → Medium → Hard"]
+    Y --> Z["Timed Contests · Mock Interviews<br/>Revision · Error Analysis"]
+    Z --> END(["✅ DSA MASTERY"])
+
+    classDef root fill:#312e81,stroke:#a5b4fc,color:#fff,stroke-width:2px
+    classDef core fill:#1e3a8a,stroke:#60a5fa,color:#fff
+    classDef patterns fill:#164e63,stroke:#67e8f9,color:#fff
+    classDef advanced fill:#4c1d95,stroke:#c4b5fd,color:#fff
+    classDef finish fill:#14532d,stroke:#86efac,color:#fff,stroke-width:2px
+
+    class A,END root
+    class B,B1,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U core
+    class D1,J1,F1,E1,H1,I1,N1,O1,P1,P2,Q1,R1 patterns
+    class K4,K5,L1,M1,T3,T4,T5,T6,T7,T8,T9,U1,U2,U3,U4,U5,U6,U7,V,V1,V2,V3,V4,W,W1,W2 advanced
+    class X,Y,Z finish
+```
+
+
 # 🧠 Data Structures & Algorithms — Complete Roadmap
 
 <p align="center">
