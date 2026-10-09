@@ -831,6 +831,21 @@ Docker
   </table>
 
 
+<!-- Support -->
+<h3 align="center">☕ Support My Work</h3>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/stoicdevansh">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy Me a Coffee"
+      height="50"
+      width="210"
+    />
+  </a>
+</p>
+
+
 <br>
 <br>
 
