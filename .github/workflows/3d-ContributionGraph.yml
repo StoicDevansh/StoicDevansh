@@ -1,4 +1,4 @@
-name: Generate 3D Contribution Graph
+name: Stoic 3D Contribution Graph
 
 on:
   schedule:
