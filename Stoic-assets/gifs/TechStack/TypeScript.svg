@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<style>
+.tile{animation:tilePop 3s ease-in-out infinite;transform-origin:64px 64px}
+.ts{animation:slideTS 3s cubic-bezier(.2,.8,.2,1) infinite}
+@keyframes tilePop{0%,100%{transform:scale(1)}25%{transform:scale(.96)}42%{transform:scale(1)}}
+@keyframes slideTS{0%,12%{opacity:0;transform:translateX(24px)}40%,85%{opacity:1;transform:translateX(0)}}
+</style>
+<rect class="tile" x="7" y="7" width="114" height="114" rx="3" fill="#3178C6"/>
+<text class="ts" x="108" y="91" text-anchor="end" font-family="Arial,sans-serif" font-size="49" font-weight="700" fill="#fff">TS</text>
+</svg>

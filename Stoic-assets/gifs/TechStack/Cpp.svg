@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<style>
+.badge{transform-origin:55px 64px;animation:badgePulse 3s ease-in-out infinite}
+.plus{animation:plusOut 3s cubic-bezier(.2,.8,.2,1) infinite}
+.p2{animation-delay:.12s}
+@keyframes badgePulse{0%,100%{transform:scale(1)}35%{transform:scale(1.035)}}
+@keyframes plusOut{0%,12%{opacity:0;transform:translateX(-17px) scale(.65)}38%,84%{opacity:1;transform:translateX(0) scale(1)}}
+</style>
+<path class="badge" d="M55 7 103 35 103 91 55 119 7 91 7 35Z" fill="#00599C"/>
+<text x="48" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="58" font-weight="700" fill="#fff">C</text>
+<g fill="#fff" class="plus">
+ <path d="M77 49h8v8h8v8h-8v8h-8v-8h-8v-8h8z" transform="translate(1 -4) scale(.82) translate(17 13)"/>
+ <path class="p2" d="M94 70h5v5h5v5h-5v5h-5v-5h-5v-5h5z"/>
+</g>
+</svg>

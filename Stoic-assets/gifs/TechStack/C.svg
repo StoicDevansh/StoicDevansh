@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<style>
+.ring{transform-origin:64px 64px;animation:ringIn 2.8s ease-in-out infinite}
+.letter{animation:cDraw 2.8s ease-in-out infinite}
+@keyframes ringIn{0%,100%{transform:rotate(0) scale(1)}45%{transform:rotate(18deg) scale(1.04)}}
+@keyframes cDraw{0%,15%{opacity:.15;transform:translateX(7px)}40%,85%{opacity:1;transform:translateX(0)}}
+</style>
+<circle class="ring" cx="64" cy="64" r="55" fill="#00599C"/>
+<text class="letter" x="64" y="84" text-anchor="middle" font-family="Arial,sans-serif" font-size="70" font-weight="700" fill="#fff">C</text>
+</svg>

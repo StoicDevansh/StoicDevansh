@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+<style>
+.elephant{animation:elephantBob 3.4s ease-in-out infinite;transform-origin:64px 65px}
+.trunk{animation:trunkSway 2.4s ease-in-out infinite;transform-origin:79px 70px}
+@keyframes elephantBob{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+@keyframes trunkSway{0%,100%{transform:rotate(0)}50%{transform:rotate(-5deg)}}
+</style>
+<g class="elephant" fill="#336791">
+ <path d="M24 52C22 29 38 15 59 15c17 0 31 8 37 24l8 9-5 13-10 4-2 20-11 12-15-3-3-17-12-3-7 15-11-2 5-21C27 64 24 59 24 52Z"/>
+ <path d="M29 42 14 32 12 51l14 10Z"/>
+ <path d="M88 42 105 31l8 14-14 14Z"/>
+ <path class="trunk" d="M78 59c12 1 17 10 13 20l-5 13c-2 6 3 10 9 7 4-2 4-7 1-10l7-4c8 12 0 24-11 24-13 0-20-11-15-23l4-11c2-5 0-8-5-9Z" fill="#336791"/>
+ <ellipse cx="52" cy="39" rx="4" ry="5" fill="#fff"/>
+ <circle cx="53" cy="40" r="2.2" fill="#1d3f5b"/>
+ <path d="M69 33c7 1 12 5 15 11" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+</g>
+</svg>

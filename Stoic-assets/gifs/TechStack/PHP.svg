@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 110">
+<style>
+.oval{stroke-dasharray:390;stroke-dashoffset:390;animation:drawOval 3.4s ease-in-out infinite}
+.word{animation:wordLift 3.4s ease-in-out infinite}
+@keyframes drawOval{0%,10%{stroke-dashoffset:390}45%,90%{stroke-dashoffset:0}}
+@keyframes wordLift{0%,28%{opacity:0;transform:translateY(9px)}50%,90%{opacity:1;transform:translateY(0)}}
+</style>
+<ellipse class="oval" cx="80" cy="55" rx="70" ry="39" fill="#fff" stroke="#777BB3" stroke-width="7"/>
+<text class="word" x="80" y="70" text-anchor="middle" font-family="Arial,sans-serif" font-size="43" font-weight="700" letter-spacing="-2" fill="#777BB3">php</text>
+</svg>
