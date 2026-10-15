@@ -47,7 +47,7 @@
   &nbsp;I enjoy understanding <b>how things work internally</b>, solving problems with <b>clean logic</b>, and continuously improving my <b>engineering fundamentals</b> and <b>problem-solving skills</b>.
 </p>
 
-<img src="./Stoic-assets/gifs/StoicDevansh_.gif" width="360" align="right" alt="Developer animation"/>
+<img src="./Stoic-assets/gifs/StoicDevansh_.gif" width="270" align="right" alt="Developer animation"/>
 
 <br>
 <h3>🎯 Currently Focused On</h3>
@@ -80,51 +80,63 @@
 
 <div align="center">
 
-<h2> <img src="./Stoic-assets/gifs/Developer.gif" width="21" alt="Separator" /> Tech Stack</h2>
+<h2> <img src="./Stoic-assets/gifs/Developer.gif" width="21" alt="Developer" /> Technologies & Tools</h2>
 
 
 
 <p align="center">
   <a href="https://en.cppreference.com/w/c/language"><img src="https://skillicons.dev/icons?i=c" width="60" hspace="10" vspace="8" title="C" alt="C" /></a>
-  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="60" hspace="10" vspace="8" title="C++" alt="C++" /></a>
+  <a href="https://isocpp.org/"><img src="./Stoic-assets/gifs/TechStack/CPP_1.gif" width="90" alt="C++" /></a>
+  <!-- <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="60" hspace="10" vspace="8" title="C++" alt="C++" /></a> -->
   <img src="./Stoic-assets/gifs/TechStack/Python.gif" width="60" alt="Python" /></a>
   <!-- <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="60" hspace="10" vspace="8" title="Python" alt="Python" /></a> -->
 </p>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="60" hspace="10" vspace="8" title="JavaScript" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./Stoic-assets/webp/JS.webp" width="65" alt="JavaScript" /></a>
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="60" hspace="10" vspace="8" title="JavaScript" alt="JavaScript" /></a> -->
   <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="60" hspace="10" vspace="8" title="TypeScript" alt="TypeScript" /></a>
   <a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="60" hspace="10" vspace="8" title="Rust" alt="Rust" /></a>
+  <a href="https://www.java.com/"><img src="./Stoic-assets/gifs/TechStack/Javaa.svg" width="65" alt="Java" /></a>
   <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" width="60" hspace="10" vspace="8" title="PHP" alt="PHP" /></a>
 </p>
 
 <p align="center">
-  <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="60" hspace="10" vspace="8" title="HTML5" alt="HTML5" /></a>
-  <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="60" hspace="10" vspace="8" title="CSS3" alt="CSS3" /></a>
+  <a href="https://html.spec.whatwg.org/"><img src="./Stoic-assets/gifs/TechStack/giphy.gif" width="70" alt="HTML5" /></a>
+  <!-- <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="60" hspace="10" vspace="8" title="HTML5" alt="HTML5" /></a> -->
+  <a href="https://www.w3.org/Style/CSS/"><img src="./Stoic-assets/gifs/TechStack/CSS.gif" width="70" alt="CSS3" /></a>
+  <!-- <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="60" hspace="10" vspace="8" title="CSS3" alt="CSS3" /></a> -->
   <a href="https://www.w3.org/XML/"><img src="https://api.iconify.design/vscode-icons:file-type-xml.svg" width="60" hspace="10" vspace="8" title="XML" alt="XML" /></a>
   
   <img src="./Stoic-assets/gifs/TechStack/Mongo.gif" width="60" alt="Mongo"/>
   <!-- <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="60" hspace="10" vspace="8" title="MySQL" alt="MySQL" /></a> --> 
   <img src="./Stoic-assets/gifs/TechStack/mysql.svg" width="60" alt="Mysql"/>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="60" hspace="10" vspace="8" title="PostgreSQL" alt="PostgreSQL" /></a>
+  <a href="https://docs.restapi.com/docs/getting-started"><img src="./Stoic-assets/gifs/TechStack/restAPI.svg" width="70" alt="RestAPI" /></a>
+ <!--  <a href="https://www.postgresql.org/"><img src="./Stoic-assets/gifs/TechStack/PostgreSQL.svg" width="70" alt="PostgreSQL" /></a> -->
 </p>
 
 <p align="center">
   <!-- <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="60" hspace="10" vspace="8" title="MongoDB" alt="MongoDB" /></a> -->
- <img src="./Stoic-assets/gifs/TechStack/git.gif" width="100" alt="Git" />
+ <img src="./Stoic-assets/gifs/TechStack/git.gif" width="80"  alt="Git" />
   <!-- <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="60" hspace="10" vspace="8" title="Git" alt="Git" /></a> -->
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="60" hspace="10" vspace="8" title="GitHub" alt="GitHub" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="60" hspace="10" vspace="8" title="Docker" alt="Docker" /></a>
+  <!-- <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="60" hspace="10" vspace="8" title="GitHub" alt="GitHub" /></a> -->
+  <a href="https://www.docker.com/"><img src="./Stoic-assets/gifs/TechStack/Docker.gif" width="60" alt="Docker" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="60" hspace="10" vspace="8" title="Postman" alt="Postman" /></a>
+  <!-- <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="60" hspace="10" vspace="8" title="Docker" alt="Docker" /></a> -->
   <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux" width="60" hspace="10" vspace="8" title="Linux" alt="Linux" /></a>
+  <a href="https://react.dev/learn/"><img src="./Stoic-assets/gifs/TechStack/React.svg" width="70" alt="React" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="60" hspace="10" vspace="8" title="Postman" alt="Postman" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="60" hspace="10" vspace="8" title="VS Code" alt="VS Code" /></a>
+  <!-- <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" width="60" hspace="10" vspace="8" title="Postman" alt="Postman" /></a> -->
+  <a href="https://github.com/"><img src="./Stoic-assets/gifs/TechStack/Github.gif" width="60" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/"><img src="./Stoic-assets/gifs/TechStack/VS.gif" width="60" alt="VS Code" /></a>
+  <!-- <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="60" hspace="10" vspace="8" title="VS Code" alt="VS Code" /></a> -->
   <a href="https://n8n.io/"><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="60" hspace="10" vspace="8" title="n8n" alt="n8n" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,50:7F00FF,100:00F5A0&height=3&section=header" width="55%" alt="" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36BCF7,50:7F00FF,100:00F5A0&height=3&section=header" width="55%" alt="" /> -->
 
 <h3>🧠 Core Skills</h3>
 
@@ -134,7 +146,7 @@
   <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="60" hspace="12" vspace="8" title="MySQL" alt="MySQL" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:7F00FF,100:36BCF7&height=3&section=header" width="55%" alt="" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:7F00FF,100:36BCF7&height=3&section=header" width="55%" alt="" /> -->
 
 <h3>🔍 Explored</h3>
 
@@ -147,14 +159,6 @@
 <p align="center">
   <a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=ubuntu" width="60" hspace="12" vspace="8" title="Ubuntu" alt="Ubuntu" /></a>
   <a href="https://www.debian.org/"><img src="https://skillicons.dev/icons?i=debian" width="60" hspace="12" vspace="8" title="Debian" alt="Debian" /></a>
-</p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" />
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" />
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" />
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
 </p>
 
 </div>
