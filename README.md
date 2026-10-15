@@ -142,7 +142,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/"><img src="./Stoic-assets/gifs/TechStack/leetcode.svg" width="60" title="DSA &amp; Problem Solving" alt="DSA" /></a>
-  <a href="https://leetcode.com/"><img src="./Stoic-assets/gifs/TechStack/NodeJs.gif" width="60" hspace="12" vspace="8" title="NodeJS" alt="nodeJS" /></a>
+  <a href="https://nodejs.org/"><img src="./Stoic-assets/gifs/TechStack/NodeJs.gif" width="60" hspace="12" vspace="8" title="NodeJS" alt="nodeJS" /></a>
   <a href="https://supabase.com/docs"><img src="./Stoic-assets/gifs/TechStack/supa.gif" width="60" hspace="12" vspace="8" title="Supabase" alt="Supabase" /></a>
   <!-- <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="60" hspace="12" vspace="8" title="MySQL" alt="MySQL" /></a> -->
 </p>
@@ -165,4 +165,91 @@
 </p>
 
 </div>
-</div>
+
+
+<!--
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔥 SIH
+
+**Short description of the project.**
+
+```text
+Frontend
+Backend
+Database
+API
+Deployment
+```
+
+🔗 [View Repository](https://github.com/YOUR_USERNAME/PROJECT)
+
+</td>
+
+<td width="50%">
+
+### 🤖 Nasa Space App Challenge
+
+**Short description of the project.**
+
+```text
+Python
+AI / ML
+API
+Database
+Docker
+```
+
+🔗 [View Repository](https://github.com/YOUR_USERNAME/PROJECT)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚙️ GDG Hackfest 2.0
+
+**Short description of the project.**
+
+```text
+C++
+DSA
+Algorithms
+System Design
+```
+
+🔗 [View Repository](https://github.com/YOUR_USERNAME/PROJECT)
+
+</td>
+
+<td width="50%">
+
+### 🌐 WCTM Tech Fest 
+
+**Short description of the project.**
+
+```text
+React
+TypeScript
+Backend
+REST API
+Docker
+```
+
+🔗 [View Repository](https://github.com/YOUR_USERNAME/PROJECT)
+
+</td>
+
+</tr>
+</table>
+-->
+
+
